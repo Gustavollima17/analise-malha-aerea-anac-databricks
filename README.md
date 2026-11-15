@@ -59,4 +59,3 @@ O pipeline foi estruturado em três camadas analíticas no Unity Catalog para ga
 
 *Gustavo Lima Mendes*  
 * [LinkedIn](linkedin.com/in/gustavo-lima-ba5276269)
-*
